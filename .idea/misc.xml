@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mirrorquiz/app/src/main/res/drawable/defaultwhite.xml" value="0.2385" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/drawable/greenbg.xml" value="0.1" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/drawable/login_bg.xml" value="0.215" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/drawable/redbg.xml" value="0.1" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/drawable/shapewhite.xml" value="0.18" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/drawable/smallbtn.xml" value="0.219" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/font/akaya_telivigala.xml" value="0.2625" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/font/anton.xml" value="0.2625" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/font/bangers.xml" value="0.2625" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/font/bebas_neue.xml" value="0.2625" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/activity_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/activity_main2.xml" value="0.23229166666666667" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/activity_quiz.xml" value="0.264" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/custom_layout.xml" value="0.23125" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/fragment_create_quiz.xml" value="0.22709163346613545" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/fragment_quiz_a.xml" value="0.23229166666666667" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/fragment_quiz_b.xml" value="0.21822916666666667" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/listitem.xml" value="0.23333333333333334" />
+        <entry key="..\:/mirrorquiz/app/src/main/res/layout/simple_list_item_1.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

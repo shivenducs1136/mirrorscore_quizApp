@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/main_color"
+    >
+
+    <TextView
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:textSize="28sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_margin="10dp"
+        android:id="@+id/log"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Are you sure ... "
+        app:layout_constraintTop_toBottomOf="@id/log"
+        app:layout_constraintLeft_toLeftOf="@id/log"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:fontFamily="@font/akaya_telivigala"
+        android:maxLines="2"
+        android:id="@+id/body"
+        android:autoSizeTextType="uniform"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yes"
+        android:textColor="@color/white"
+        android:fontFamily="@font/bangers"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:id="@+id/yesbtn"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.7"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/bangers"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:id="@+id/nobtn"
+        android:paddingRight="5dp"
+        app:layout_constraintHorizontal_bias="0.9"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

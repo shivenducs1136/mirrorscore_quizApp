@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343547754302",
+    "project_id": "mirrorquiz-ebaa5",
+    "storage_bucket": "mirrorquiz-ebaa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343547754302:android:1e6f8b73197a13d4961e6f",
+        "android_client_info": {
+          "package_name": "com.bitwisor.mirrorquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343547754302-hr2qfm7emtjl069vtl6bnrp7ib1rbv4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TOH9GnGpu_W3CEyCB4EVcUOTfEOrMF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343547754302-hr2qfm7emtjl069vtl6bnrp7ib1rbv4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
